@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Course";
+}
+
+<h2>Wellcome to Course Information Processing System</h2>
+
+<table class="table">
+    <ul>
+        <li>
+            @Html.ActionLink("Save Course", "Save")
+        </li>
+
+        <li>
+            @Html.ActionLink("Course Assign to Teacher", "Create", "AssignCourse")
+        </li>
+
+        <li>
+            @Html.ActionLink("View Course Statics", "ViewCourseStatics", "AssignCourse")
+        </li>
+
+        <li>
+            @Html.ActionLink("Allocate classrooms", "Create", "RoomAllocation")
+        </li>
+
+        <li>
+            @Html.ActionLink("View Class Schedule and room Allocation Information", "RoomAllocationView", "RoomAllocation")
+        </li>
+
+        <li>
+            @Html.ActionLink("Enroll in a Course", "Create", "EnrollCourse")
+        </li>
+    </ul>
+</table>

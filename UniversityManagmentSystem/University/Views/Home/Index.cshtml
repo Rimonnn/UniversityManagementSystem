@@ -1,0 +1,44 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+
+<div class="jumbotron">
+    <h1>Creative Thinking University</h1>
+    <p class="lead">This is an university that can change your thinking...</p>
+    <p><a href="#" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+</div>
+
+<div class="row">
+    <div class="col-lg-4">
+        <h2>Getting started</h2>
+        <p>
+            Join to our journey...
+            <br />
+            @Html.ActionLink("View All Department", "Show", "Department")
+        </p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-lg-4">
+        <h2>Get admitted</h2>
+        <p>
+            Admit to our university...
+            <br />
+            @Html.ActionLink("Registration", "Create", "RegisterStudent")
+        </p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
+    </div>
+    <div class="col-lg-4">
+        <h2>Our services</h2>
+        <p>
+            1.High Quality Lab
+            <br />
+            2.Online Registration Process
+            <br />
+            3.Online Result Process
+        </p>
+        <p><a class="btn btn-default" href="#">Learn more &raquo;</a></p>
+    </div>
+    <div>
+        <a href=""></a>
+    </div>
+</div>

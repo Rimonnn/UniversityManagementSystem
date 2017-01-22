@@ -1,0 +1,43 @@
+﻿@model IEnumerable<University.Models.Course>
+
+@{
+    ViewBag.Title = "View Course Statics";
+}
+
+<h2>View Course Statics</h2>
+
+@using (Html.BeginForm())
+{
+    <div>
+        <b>Select Department  </b>
+        @Html.DropDownList("DepartmentId", String.Empty)
+    </div>
+}
+
+<p>
+    <br />
+</p>
+
+<div id="resultData">
+    @Html.Partial("~/Views/Shared/_coursestatics.cshtml")
+</div>
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery-2.1.4.min.js"></script>
+<script src="~/Scripts/jquery-ui-1.11.4.js"></script>
+
+<script type="text/javascript">
+    function FillData(id) {
+        $('#resultData').load('@Url.Action("CourseStaticsLoad")', { departmentId: id });
+    }
+
+    $(function () {
+        $('#DepartmentId').change(function () {
+            var id = $('#DepartmentId').val();
+            FillData(id);
+        });
+    });
+
+</script>
+

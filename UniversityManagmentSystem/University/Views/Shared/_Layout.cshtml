@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Creative Thinking University</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+    <body>
+        
+        <div class="container">
+            <div class="masthead">
+                <h3 class="text-muted">@Html.ActionLink("Creative Thinking University", "Index", "Home")</h3>
+                <ul class="nav nav-justified">
+                    <li>@Html.ActionLink("Home", "Index", "Home", null, new { @class = "active" })</li>
+                    <li>@Html.ActionLink("Department", "Index", "Department")</li>
+                    <li>@Html.ActionLink("Course", "Index", "Course")</li>
+                    <li>@Html.ActionLink("Teacher", "Index", "Teacher")</li>
+                    <li>@Html.ActionLink("Student", "Index", "RegisterStudent")</li>
+                    <li>@Html.ActionLink("Result", "Index", "ResultEntry")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="container body-content">
+            @RenderBody()
+            <hr />
+            <footer>
+                <p>&copy; @DateTime.Now.Year - Creative Thinking University</p>
+                Powered By - <a>64 Bit Team</a>
+            </footer>
+        </div>
+
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+    </body>
+</html>

@@ -1,0 +1,496 @@
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.department.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.change1Department.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.semester.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.course.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.designation.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.teacher.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-31\University\University\obj\Debug\University.Migrations.change1Teacher.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\Class(My Practice)\Class-28\Final Project(Code First)\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.Migrations.change2Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.Migrations.change3Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First)\University\University\obj\Debug\University.Migrations.change4Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change2Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change3Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change4Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Group Work\Final Project\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change5Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change2Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change3Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change4Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.Migrations.change5Init.resources
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.pdb
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\bin\Rotativa.dll
+D:\Web App Development - Dot Net\Class(My Practice)\Class-30\Final Project(Code First-MVC5)\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.dll.config
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Antlr3.Runtime.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.SqlServer.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Newtonsoft.Json.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Owin.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Rotativa.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Helpers.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Mvc.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Optimization.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\WebGrease.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.SqlServer.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Helpers.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Mvc.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Optimization.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Newtonsoft.Json.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Antlr3.Runtime.pdb
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change2Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change3Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change4Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change5Init.resources
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.dll
+D:\Web App Development - Dot Net\BITM ASP.NET 8th Batch\Class Tutorial\Class31(14.10.15)\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.pdb
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.dll.config
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\University.pdb
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Antlr3.Runtime.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.SqlServer.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Google.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Web.Infrastructure.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Newtonsoft.Json.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Owin.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Rotativa.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Helpers.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Mvc.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Optimization.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Razor.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Deployment.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Razor.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\WebGrease.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\EntityFramework.SqlServer.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Helpers.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Mvc.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Optimization.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.Razor.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Deployment.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\System.Web.WebPages.Razor.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Newtonsoft.Json.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Antlr3.Runtime.pdb
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Google.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change1Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change2Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change3Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change4Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.Migrations.change5Init.resources
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.csproj.GenerateResource.Cache
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.dll
+D:\Project_Bitm\Final Project(Code First-MVC5)64-Bit\University\University\obj\Debug\University.pdb
+E:\BITM\Project02\VirusScan\University\bin\University.dll.config
+E:\BITM\Project02\VirusScan\University\bin\University.dll
+E:\BITM\Project02\VirusScan\University\bin\University.pdb
+E:\BITM\Project02\VirusScan\University\bin\Antlr3.Runtime.dll
+E:\BITM\Project02\VirusScan\University\bin\EntityFramework.dll
+E:\BITM\Project02\VirusScan\University\bin\EntityFramework.SqlServer.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.Core.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Cookies.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Facebook.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Google.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.OAuth.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Twitter.dll
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Web.Infrastructure.dll
+E:\BITM\Project02\VirusScan\University\bin\Newtonsoft.Json.dll
+E:\BITM\Project02\VirusScan\University\bin\Owin.dll
+E:\BITM\Project02\VirusScan\University\bin\Rotativa.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Helpers.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Mvc.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Optimization.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Razor.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.Deployment.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.dll
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.Razor.dll
+E:\BITM\Project02\VirusScan\University\bin\WebGrease.dll
+E:\BITM\Project02\VirusScan\University\bin\EntityFramework.xml
+E:\BITM\Project02\VirusScan\University\bin\EntityFramework.SqlServer.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Helpers.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Mvc.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Optimization.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.Razor.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.Deployment.xml
+E:\BITM\Project02\VirusScan\University\bin\System.Web.WebPages.Razor.xml
+E:\BITM\Project02\VirusScan\University\bin\Newtonsoft.Json.xml
+E:\BITM\Project02\VirusScan\University\bin\Antlr3.Runtime.pdb
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.Core.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Facebook.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Cookies.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.OAuth.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Google.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.Twitter.xml
+E:\BITM\Project02\VirusScan\University\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.csprojResolveAssemblyReference.cache
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.change1Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.change2Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.change3Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.change4Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.Migrations.change5Init.resources
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.csproj.GenerateResource.Cache
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.dll
+E:\BITM\Project02\VirusScan\University\obj\Debug\University.pdb

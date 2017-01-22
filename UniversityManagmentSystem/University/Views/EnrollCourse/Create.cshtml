@@ -1,0 +1,84 @@
+﻿@model University.Models.EnrollCourse
+
+@{
+    ViewBag.Title = "Enroll in a course";
+}
+
+<h2>Enroll in a course</h2>
+
+<h3 style="color: green">@TempData["success"]</h3>
+<h3 style="color: red">@TempData["Already"]</h3>
+
+
+@using (Html.BeginForm()) 
+{
+    @Html.AntiForgeryToken()
+    
+    <div class="form-horizontal">
+        <hr />
+        @Html.ValidationSummary(true)
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.StudentId, "Student Reg. No.", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.DropDownList("StudentId", String.Empty)
+                @Html.ValidationMessageFor(model => model.StudentId)
+            </div>
+        </div>
+        
+        <div class="form-group">
+            <div class="col-md-10">
+                <div id="studentInfo">
+                    @Html.Partial("~/Views/Shared/_StudentInformation.cshtml")
+                </div>
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.CourseId, "Select Course", new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.Partial("_FilteredCourse")
+                @Html.ValidationMessageFor(model => model.CourseId)
+            </div>
+        </div>
+
+        <div class="form-group">
+            @Html.LabelFor(model => model.Date, new { @class = "control-label col-md-2" })
+            <div class="col-md-10">
+                @Html.EditorFor(model => model.Date)
+                @Html.ValidationMessageFor(model => model.Date)
+            </div>
+        </div>
+
+        <div class="form-group">
+            <div class="col-md-offset-2 col-md-10">
+                <input type="submit" value="Enroll" class="btn btn-default" />
+            </div>
+        </div>
+    </div>
+}
+
+<script src="~/Scripts/jquery.validate.min.js"></script>
+<script src="~/Scripts/jquery.validate.unobtrusive.min.js"></script>
+<script src="~/Scripts/jquery-2.1.4.min.js"></script>
+<script src="~/Scripts/jquery-ui-1.11.4.js"></script>
+<script src="~/Scripts/jquery-2.1.4.js"></script>
+<script src="~/Scripts/jquery-2.1.4.intellisense.js"></script>
+
+<script type="text/javascript">
+    function FillData(id) {
+        $('#studentInfo').load('@Url.Action("StudentInfoLoad")', { studentID: id });
+        $('#CourseId').load('@Url.Action("CourseLoad")', { studentID: id });
+    }
+
+    $(function () {
+        $('#StudentId').change(function () {
+            var id = $('#StudentId').val();
+            FillData(id);
+        });
+    });
+</script>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}
